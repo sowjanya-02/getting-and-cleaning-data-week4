@@ -5,7 +5,7 @@ date: "09/03/2020"
 output: html_document
 ---
 
-Total files in the data are 28 and we consider only six files  
+Total files in the data are 28 and we consider only following files  
 [1] "activity_labels.txt"                         
 [2] "features_info.txt"                           
 [3] "features.txt"                                
@@ -16,3 +16,12 @@ Total files in the data are 28 and we consider only six files
 [26] "train/subject_train.txt"                     
 [27] "train/X_train.txt"                           
 [28] "train/y_train.txt"
+
+variables explanation
+1 Y  consist of data from “Y_train.txt” and “Y_test.txt”
+2 Subject consist of data from “subject_train.txt” and subject_test.txt"
+3 X Varibles consist of data from “X_train.txt” and “X_test.txt”
+4 Names of Varibles Features come from “features.txt”
+5 Xlabels come from “activity_labels.txt”
+
+For further reference check explanatory marks in run_analysis file and Readme file
