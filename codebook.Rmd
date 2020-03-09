@@ -1,0 +1,18 @@
+---
+title: "codebook"
+author: "Sowjanya"
+date: "09/03/2020"
+output: html_document
+---
+
+Total files in the data are 28 and we consider only six files  
+[1] "activity_labels.txt"                         
+[2] "features_info.txt"                           
+[3] "features.txt"                                
+[4] "README.txt" 
+[14] "test/subject_test.txt"                       
+[15] "test/X_test.txt"                             
+[16] "test/y_test.txt"   
+[26] "train/subject_train.txt"                     
+[27] "train/X_train.txt"                           
+[28] "train/y_train.txt"
